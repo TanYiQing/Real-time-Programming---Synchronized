@@ -1,6 +1,6 @@
 ## Your Info:
-1. Matric Number:
-1. Name:
+1. Matric Number: 270607
+1. Name: Tan Yi Qing
 
 ## Instruction:
 
@@ -24,15 +24,16 @@
 Please input i: 3
 
 pool-1-thread-1: 1
+pool-3-thread-1: 1
+pool-3-thread-1: 2
+pool-3-thread-1: 3
+pool-2-thread-1: 1
+pool-2-thread-1: 2
+pool-2-thread-1: 3
 pool-1-thread-1: 2
 pool-1-thread-1: 3
-pool-1-thread-2: 1
-pool-1-thread-2: 2
-pool-1-thread-2: 3
-pool-1-thread-3: 1
-pool-1-thread-3: 2
-pool-1-thread-3: 3
-Total = 18
+Total = 9
 ```
 
 ## Your Output/Result
+![output1](./images/Output.png)
